@@ -72,8 +72,12 @@
 
 @font-face { 
     font-family: "Droid Arabic Kufi' ,serif;";
-    src: url('/fonts/Droid\ Arabic\ Kufi\ Regular.ttf')  format('truetype');
+    /* src: url('/fonts/Droid\ Arabic\ Kufi\ Regular.ttf')  format('truetype'); */
+    /* src: url('fonts/Droid Arabic Kufi Regular.ttf')  format('truetype'); */
 
+     src: url(https://fonts.gstatic.com/s/kalam/v16/YA9Qr0Wd4kDdMtD6GjLMkiQ.woff2) format('woff2');
+
+ 
 
 }
 /* body{width: 98%;} */
