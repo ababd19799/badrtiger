@@ -1244,6 +1244,11 @@ width: 100%;
 @media screen and (min-width:921px ) and (max-width:1023px)
  
 {
+
+    .middle-TXT span{font-size: 25px;}
+    .middle-TXT strong{font-size: 25px;}
+    .about h5{font-size: 25px;}
+
     .nav-bar{height: auto;}
     .co-title{padding-bottom: 3ch;}
 
@@ -1362,7 +1367,13 @@ width: 100%;
 
  
  {
-  
+
+    .middle-TXT span{font-size: 25px;}
+    .middle-TXT strong{font-size: 25px;}
+    .about h5{font-size: 25px;}
+
+
+
     .co-title{padding-bottom: 4ch;}
 
 
