@@ -77,7 +77,11 @@
     /* font-family: 'Kalam', cursive; */
     /* font-family: "font-family: 'Kalam', cursive;"; */
     font-family: "Droid Arabic Kufi' ,serif;";
-    src: url('/fonts/Droid\ Arabic\ Kufi\ Regular.ttf')  format('truetype');
+    /* src: url('/fonts/Droid\ Arabic\ Kufi\ Regular.ttf')  format('truetype'); */
+    src: url('/fonts/fontawesome/Droid\ Arabic\ Kufi\ Regular.ttf')  format('truetype');
+   
+   
+   
     /* src: url('fonts/Droid Arabic Kufi Regular.ttf')  format('truetype'); */
     
 
@@ -902,7 +906,7 @@ display:none;
     .nav-bar{height: auto;}
    
     .carousel-caption{color: white;}
-    .carousel-caption h1{font-size: 1.5rem;color: red;}
+    .carousel-caption h1{font-size: 1.5rem;color: #ffc107;}
     .carousel-caption h2{font-size: 1rem;}
   
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>. */
@@ -951,7 +955,7 @@ display:none;
 
 }
 
-.Primary-title{margin-top: 800px;}
+.Primary-title{margin-top: 850px;}
 
 .Primary-TXT {
    
