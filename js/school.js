@@ -3,7 +3,9 @@ $(document).ready(function(){
 
 
     // $("html,body").css({'scroll-behavior':'smooth'})
-
+    // var widthbody = document.body.clientWidth;
+    // window.alert(widthbody)
+    
 
 $('#bar1').click(function(){
 
